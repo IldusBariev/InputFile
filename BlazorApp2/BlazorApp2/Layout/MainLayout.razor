@@ -14,10 +14,17 @@
 
         <ul class="list-menu">
             <li>
-                <a class="linknav desktop-only" href="#">Главная</a>
+                <NavLink href="/"
+                         Match="NavLinkMatch.All"
+                         class="linknav desktop-only">
+                    Главная
+                </NavLink>
             </li>
             <li>
-                <a class="linknav desktop-only" href="#">Личный кабинет</a>
+                <NavLink class="linknav desktop-only"
+                         href="login">
+                    Личный кабинет
+                </NavLink>
             </li>
             <li>
                 <a class="linknav desktop-only" href="#">База знаний</a>

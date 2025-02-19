@@ -1134,26 +1134,11 @@ a {
     background-color: #8b0000;
 }
 
-.news-list {
-    width: 0.1%;
-}
-
-.news-desktop {
-    width: 100%;
-    border-radius: 15px;
-}
 
 
 
 @media screen and (max-width: 767px) {
-    .news-list {
-        width: 100%;
-        border-radius: 15px;
-    }
-
-    .news-desktop {
-        display: none;
-    }
+    
 
     .news-container {
         width: 89%;

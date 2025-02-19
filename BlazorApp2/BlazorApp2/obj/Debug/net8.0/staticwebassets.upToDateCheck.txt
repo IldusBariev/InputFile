@@ -9,6 +9,15 @@ wwwroot\icon-192.png
 wwwroot\index.html
 wwwroot\menu.svg
 wwwroot\menuhover.png
+wwwroot\NEWS\1.png
+wwwroot\NEWS\2.png
+wwwroot\NEWS\3.png
+wwwroot\NEWS\4.png
+wwwroot\NEWS\5.png
+wwwroot\NEWS\6.png
+wwwroot\NEWS\7.png
+wwwroot\NEWS\8.png
+wwwroot\NEWS\NEWS_kollage.png
 wwwroot\testnews.jpg
 wwwroot\tg.svg
 wwwroot\vk.svg
