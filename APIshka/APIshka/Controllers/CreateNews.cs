@@ -2,6 +2,7 @@
 using APIshka.Entities;
 using APIshka.Request;
 using Microsoft.AspNetCore.Mvc;
+using System.Xml.Linq;
 
 namespace APIshka.Controllers
 {
@@ -44,13 +45,23 @@ namespace APIshka.Controllers
 
             return Created();
         }
-        // возвращает данные о новости и название изображения 
+
+        // возвращает данные о новости и ссылку на изображение
         [HttpGet]
         public async Task<IActionResult> GetAllNewsAsync()
         {
             AppDbContext dbContext = new AppDbContext();
-            return Ok(dbContext.News);
+            var columns = dbContext.News
+                .Select(n => new { n.NewsId,
+                    n.Title,
+                    n.Description,
+                    image = n.ImagesName != null ? $"http://localhost:5155/static/files/images/{n.ImagesName}" : null })
+                .ToList();
+
+
+            return Ok(columns);
         }
+
         // Возвращает ссылку на изображение
         [HttpGet("{name}")]
         public async Task<IActionResult> GetNewsImageAsync(string name)
@@ -61,6 +72,8 @@ namespace APIshka.Controllers
             return Ok(filePath);
         }
 
+        // возвращает имена всех изображение
+        // п.с. я пока хз зачем это сделал
         [Route("images_name")]
         [HttpGet]
         public async Task<IActionResult> GetNewImageNameAsync()

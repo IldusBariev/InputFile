@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o5o+pB3ZEaY=",
+  "dgSpecHash": "9LE2lHg5Q5I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Диляра\\Desktop\\VS\\APIshka\\APIshka\\APIshka.csproj",
+  "projectFilePath": "C:\\Users\\Диляра\\Desktop\\InputFile\\APIshka\\APIshka\\APIshka.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Диляра\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Диляра\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
