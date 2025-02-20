@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\css\\main.css"
     },
     {
+      "Id": "C:\\Users\\Диляра\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\wwwroot\\css\\news-page.css",
+      "PackagePath": "staticwebassets\\css\\news-page.css"
+    },
+    {
       "Id": "C:\\Users\\Диляра\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\wwwroot\\css\\newsAdd.css",
       "PackagePath": "staticwebassets\\css\\newsAdd.css"
     },

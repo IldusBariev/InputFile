@@ -3,6 +3,7 @@ wwwroot\css\app.css
 wwwroot\css\lk.css
 wwwroot\css\main.css
 wwwroot\css\newsAdd.css
+wwwroot\css\news-page.css
 wwwroot\css\reset.css
 wwwroot\icon_ktk.svg
 wwwroot\icon-192.png

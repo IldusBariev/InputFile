@@ -13,7 +13,7 @@ namespace APIshka.Controllers
 
         // Для добавления новостей. Фотографию в массив байтов не переводит
         [HttpPost]
-        public async Task<IActionResult> AddNewsAsync([FromForm] CreateNewsRequest request)
+        public async Task<IActionResult> AddNewsAsync(CreateNewsRequest request)
         {
             string? imagesName = null;
             AppDbContext dbContext = new AppDbContext();

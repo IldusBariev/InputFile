@@ -2079,6 +2079,7 @@ C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\B
 C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\refint\BlazorApp2.dll
 C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\BlazorApp2.pdb
 C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\ref\BlazorApp2.dll
-C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\z4nfu4l7hl-ev3q2e5d0t.gz
-C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\6yfc49io4u-ghji0733sx.gz
-C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\ze7vl5o02k-ccyk5i0igt.gz
+C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\z4nfu4l7hl-67pxbw73b7.gz
+C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\6yfc49io4u-nfd5n9dikh.gz
+C:\Users\Диляра\Desktop\InputFile\BlazorApp2\BlazorApp2\obj\Debug\net8.0\compressed\ze7vl5o02k-kpb7pvnpai.gz

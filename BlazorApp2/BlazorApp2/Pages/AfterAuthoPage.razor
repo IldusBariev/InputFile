@@ -13,30 +13,30 @@
         <div class="news-add-container">
 
             <EditForm Model="newsAdd"
-            OnValidSubmit="AddNewsAsync">
+                      OnValidSubmit="AddNewsAsync">
                 <DataAnnotationsValidator />
 
 
                 <p>Загловок новости</p>
                 <InputTextArea class="news-title"
-                @bind-Value="newsAdd.Title"
-                placeholder="Загаловок"
-                rows="3" />
+                               @bind-Value="newsAdd.Title"
+                               placeholder="Загаловок"
+                               rows="3" />
                 <ValidationMessage For="() => newsAdd.Title" />
 
                 <p>Содеражние</p>
                 <InputTextArea class="news-description"
-                max-heigth="15%"
-                @bind-Value="newsAdd.Description"
-                placeholder="Описание"
-                rows="20" />
+                               max-heigth="15%"
+                               @bind-Value="newsAdd.Description"
+                               placeholder="Описание"
+                               rows="20" />
                 <ValidationMessage For="() => newsAdd.Description" />
 
                 <p>Фотография</p>
                 <InputFile OnChange="OnInputFileChange" />
 
                 <button type="submit"
-                class="authbutn">
+                        class="authbutn">
                     Добавить новость
                 </button>
 
@@ -54,10 +54,12 @@
 
                 <div class="news-view-block">
 
-
-                    <div class="news-image-container">
-                        <img src="@imageBase64">
-                    </div>
+                    @if (imageBase64 != null)
+                    {
+                        <div class="news-image-container">
+                            <img src="@imageBase64">
+                        </div>
+                    }
 
                     <div class="news-main-container">
 
@@ -103,6 +105,7 @@
         {
             imageBase64 = null; // Clear the image
         }
+        return;
     }
 
     // Добавление новостей
@@ -122,7 +125,7 @@
                 content.Add(streamContent, "Image", selectedFile.Name);
             }
 
-            var response = await HttpClient.PostAsJsonAsync("CreateNews", newsAdd);
+            var response = await HttpClient.PostAsJsonAsync("CreateNews", content);
 
             if (response.IsSuccessStatusCode)
             {
