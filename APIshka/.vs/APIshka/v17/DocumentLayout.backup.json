@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\apishka\\apishka\\request\\createnewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|solutionrelative:apishka\\request\\createnewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\apishka\\apishka\\controllers\\createnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|solutionrelative:apishka\\controllers\\createnews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\apishka\\apishka\\entities\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|solutionrelative:apishka\\entities\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\apishka\\apishka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|solutionrelative:apishka\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\apishka\\apishka\\request\\createnewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|solutionrelative:apishka\\request\\createnewsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\apishka\\apishka\\request\\userloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9A26086-EBB9-47D9-AE61-6B9C1B37B4CA}|APIshka\\APIshka.csproj|solutionrelative:apishka\\request\\userloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,51 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "New.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Entities\\New.cs",
-              "RelativeDocumentMoniker": "APIshka\\Entities\\New.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Entities\\New.cs",
-              "RelativeToolTip": "APIshka\\Entities\\New.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-18T03:17:25.702Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Program.cs",
-              "RelativeDocumentMoniker": "APIshka\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Program.cs",
-              "RelativeToolTip": "APIshka\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Title": "UserLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Request\\UserLoginRequest.cs",
+              "RelativeDocumentMoniker": "APIshka\\Request\\UserLoginRequest.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Request\\UserLoginRequest.cs",
+              "RelativeToolTip": "APIshka\\Request\\UserLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T20:21:59.773Z"
+              "WhenOpened": "2025-02-23T06:41:52.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CreateNewsRequest.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Request\\CreateNewsRequest.cs",
               "RelativeDocumentMoniker": "APIshka\\Request\\CreateNewsRequest.cs",
               "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Request\\CreateNewsRequest.cs",
               "RelativeToolTip": "APIshka\\Request\\CreateNewsRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T19:49:33.15Z"
+              "WhenOpened": "2025-02-21T15:32:28.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CreateNews.cs",
               "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Controllers\\CreateNews.cs",
               "RelativeDocumentMoniker": "APIshka\\Controllers\\CreateNews.cs",
               "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\APIshka\\APIshka\\Controllers\\CreateNews.cs*",
               "RelativeToolTip": "APIshka\\Controllers\\CreateNews.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwA4AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T19:29:20.81Z",
+              "WhenOpened": "2025-02-21T15:32:31.488Z",
               "EditorCaption": ""
             }
           ]

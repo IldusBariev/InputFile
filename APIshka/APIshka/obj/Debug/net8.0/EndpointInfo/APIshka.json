@@ -5,26 +5,10 @@
     "version": "1.0"
   },
   "paths": {
-    "/CreateNews": {
+    "/CreateNews/add_news": {
       "post": {
         "tags": [
           "CreateNews"
-        ],
-        "parameters": [
-          {
-            "name": "Title",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          },
-          {
-            "name": "Description",
-            "in": "query",
-            "schema": {
-              "type": "string"
-            }
-          }
         ],
         "requestBody": {
           "content": {
@@ -32,6 +16,12 @@
               "schema": {
                 "type": "object",
                 "properties": {
+                  "Title": {
+                    "type": "string"
+                  },
+                  "Description": {
+                    "type": "string"
+                  },
                   "Image": {
                     "type": "string",
                     "format": "binary"
@@ -39,6 +29,12 @@
                 }
               },
               "encoding": {
+                "Title": {
+                  "style": "form"
+                },
+                "Description": {
+                  "style": "form"
+                },
                 "Image": {
                   "style": "form"
                 }
@@ -51,7 +47,9 @@
             "description": "OK"
           }
         }
-      },
+      }
+    },
+    "/CreateNews": {
       "get": {
         "tags": [
           "CreateNews"

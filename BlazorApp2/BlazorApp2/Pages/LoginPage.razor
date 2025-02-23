@@ -79,6 +79,7 @@
                     LoginResult = "Такой пользователь не существует";
                 }
                 NavigationManager.NavigateTo("afterAuthoPage", true);
+                Console.WriteLine("INFO: Успешная авторизация");
                 return;
             }
         }

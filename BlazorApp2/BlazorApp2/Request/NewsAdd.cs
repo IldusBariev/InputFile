@@ -10,6 +10,5 @@ namespace BlazorApp2.Request
         public string Title { get; set; }
         [Required(ErrorMessage = "Описание объязательно")]
         public string Description { get; set; }
-        public IFormFile? Image { get; set; }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("APIshka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3849f625f9fe76889032cbf8d6a6638e1fbd8830")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1e4190b95e6e981566479997377ff8cfa49ccd2")]
 [assembly: System.Reflection.AssemblyProductAttribute("APIshka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("APIshka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

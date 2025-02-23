@@ -12,13 +12,13 @@ namespace APIshka.Controllers
     {
 
         // Для добавления новостей. Фотографию в массив байтов не переводит
-        [HttpPost]
-        public async Task<IActionResult> AddNewsAsync(CreateNewsRequest request)
+        [HttpPost("add_news")]
+        public async Task<IActionResult> AddNewsAsync([FromForm] CreateNewsRequest request)
         {
             string? imagesName = null;
             AppDbContext dbContext = new AppDbContext();
 
-            if (request.Title == null)
+            if (string.IsNullOrWhiteSpace(request.Title))
             {
                 return BadRequest("Название не может быть нулловым");
             }

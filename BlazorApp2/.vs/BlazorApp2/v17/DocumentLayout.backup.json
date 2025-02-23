@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{01E4B45A-F722-4AAB-ADBA-C9D94C919D0B}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\afterauthopage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{01E4B45A-F722-4AAB-ADBA-C9D94C919D0B}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\blazorapp2\\blazorapp2\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{01E4B45A-F722-4AAB-ADBA-C9D94C919D0B}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\pages\\loginpage.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{01E4B45A-F722-4AAB-ADBA-C9D94C919D0B}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\\u0434\u0438\u043B\u044F\u0440\u0430\\desktop\\inputfile\\blazorapp2\\blazorapp2\\request\\newsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01E4B45A-F722-4AAB-ADBA-C9D94C919D0B}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\request\\newsadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,14 +33,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "LoginPage.razor",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\Pages\\LoginPage.razor",
-              "RelativeDocumentMoniker": "BlazorApp2\\Pages\\LoginPage.razor",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\Pages\\LoginPage.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\LoginPage.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T16:06:04.152Z",
+              "Title": "NewsAdd.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\Request\\NewsAdd.cs",
+              "RelativeDocumentMoniker": "BlazorApp2\\Request\\NewsAdd.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\Request\\NewsAdd.cs*",
+              "RelativeToolTip": "BlazorApp2\\Request\\NewsAdd.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T16:40:12.464Z",
               "EditorCaption": ""
             },
             {
@@ -49,11 +49,11 @@
               "Title": "AfterAuthoPage.razor",
               "DocumentMoniker": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\Pages\\AfterAuthoPage.razor",
               "RelativeDocumentMoniker": "BlazorApp2\\Pages\\AfterAuthoPage.razor",
-              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\Pages\\AfterAuthoPage.razor",
-              "RelativeToolTip": "BlazorApp2\\Pages\\AfterAuthoPage.razor",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\\u0414\u0438\u043B\u044F\u0440\u0430\\Desktop\\InputFile\\BlazorApp2\\BlazorApp2\\Pages\\AfterAuthoPage.razor*",
+              "RelativeToolTip": "BlazorApp2\\Pages\\AfterAuthoPage.razor*",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwGAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-20T14:25:09.984Z",
+              "WhenOpened": "2025-02-21T15:14:35.681Z",
               "EditorCaption": ""
             }
           ]
